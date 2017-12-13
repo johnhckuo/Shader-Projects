@@ -1,0 +1,26 @@
+{
+  "name": "shader_projects",
+  "version": "1.0.0",
+  "description": "some interesting shader applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./ -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhckuo/Shader-Projects.git"
+  },
+  "keywords": [
+    "glsl"
+  ],
+  "author": "johnhckuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnhckuo/Shader-Projects/issues"
+  },
+  "homepage": "https://github.com/johnhckuo/Shader-Projects#readme",
+  "dependencies":{
+    "http-server":"latest"
+  }
+}
